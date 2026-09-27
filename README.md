@@ -1,2 +1,2 @@
 # sprint-7-project
-sprint-7-project
+Esta es una pequeña aplicación web que crea 2 gráficos: un histograma para la distribución del Odómetro y un gráfico de dispersión para el conjunto de datos de anuncios de venta de coches. Mismos que el usuario puede activar con el uso de casillas de verificación. 
